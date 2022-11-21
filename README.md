@@ -1,2 +1,2 @@
 # APIs
-Sistemas criados com uso de API
+Sistemas criados com uso de API em JS;
